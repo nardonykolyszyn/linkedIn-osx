@@ -1,0 +1,19 @@
+{
+  "name": "linkedin-osx",
+  "version": "1.0.0",
+  "description": "A simple LinkedIn client for OSX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devpolish/linkedIn-osx.git"
+  },
+  "author": "Nardo Nykolyszyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devpolish/linkedIn-osx/issues"
+  },
+  "homepage": "https://github.com/devpolish/linkedIn-osx#readme"
+}
